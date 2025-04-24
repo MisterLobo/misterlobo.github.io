@@ -9,7 +9,7 @@ const experiences = [
     period: '2023 - Present',
     description:
       'Tasked with the development of a custom SaaS job board for the company to find talents for remote work around the world. The app offers lots of features such as built-in Invoicing of projects that allows clients to send payments using Stripe and Wise. Clients can also set schedules for meetings as part of their hiring process with Calendly. We used NextJS for the frontend with Tailwind as the styling and Supabase for the backend and database. We also used other tools like Upstash for caching and running scheduled tasks.',
-    technologies: ['NextJS', 'Supabase', 'PostgreSQL', 'TailwindCSS', 'Shadcn/ui', 'Upstash', 'Redis', 'Strip', 'Wise'],
+    technologies: ['NextJS', 'Supabase', 'PostgreSQL', 'TailwindCSS', 'Shadcn/ui', 'Upstash', 'Redis', 'Stripe', 'Wise'],
     icon: Building,
   },
   {
