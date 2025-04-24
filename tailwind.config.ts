@@ -157,11 +157,5 @@ export default {
     },
   },
   plugins: [
-    /* animate, */
-    require('tailwindcss-animate'),
-    require('@vidstack/react/tailwind.cjs')({
-      selector: '.media-player',
-      prefix: 'media',
-    }),
   ],
 } satisfies Config;
