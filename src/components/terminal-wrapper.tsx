@@ -58,10 +58,6 @@ export function TerminalWrapper({ className }: { className?: string }) {
       <TypingAnimation delay={7000} className="text-muted-foreground">
         Success! Project initialization completed.
       </TypingAnimation>
-
-      <TypingAnimation delay={7500} className="text-muted-foreground">
-        You may now add components.
-      </TypingAnimation>
     </Terminal>
   )
 }
