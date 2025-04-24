@@ -32,7 +32,7 @@ export default function PortfolioModern() {
     },
     {
       title: "learnwithme",
-      description: "A platform for sharing educational content. This project is a work in progress",
+      description: "A platform for sharing educational content",
       category: "Development",
       image: "https://placehold.co/900/EBEDED/C3C9C9?text=O&font=poppins.svg",
       tags: ['NextJS', 'Supabase', 'React'],
@@ -60,6 +60,16 @@ export default function PortfolioModern() {
       page: '/pyzza',
       repository: 'https://github.com/0xd00bed00bed00/pyzza',
     },
+    {
+      title: 'mictest',
+      description: 'simple audio recording app',
+      category: 'Development',
+      image: "https://placehold.co/900/EBEDED/C3C9C9?text=O&font=poppins.svg",
+      tags: ['Angular', 'Audio'],
+      icon: Code2,
+      page: '#',
+      repository: 'https://github.com/MisterLobo/mic-test',
+    }
   ];
 
   return (
