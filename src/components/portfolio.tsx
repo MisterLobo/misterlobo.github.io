@@ -9,6 +9,16 @@ import Link from "next/link"
 export default function PortfolioModern() {
   const projects = [
     {
+      title: "World Clock",
+      description: "Track date and time from different timezones",
+      category: "Development",
+      image: "https://placehold.co/900/EBEDED/C3C9C9?text=O&font=poppins.svg",
+      tags: ['Flutter', 'Android', 'intl', 'clock'],
+      icon: Code2,
+      page: '/world-clock',
+      repository: 'https://github.com/MisterLobo/world_clock',
+    },
+    {
       title: "webhooktest",
       description: "Webhook testing made easy",
       category: "Development",
