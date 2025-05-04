@@ -6,7 +6,7 @@ const experiences = [
   {
     title: 'Senior Full Stack Developer',
     company: 'Mercalli Freelance',
-    period: '2023 - Present',
+    period: '2023 - 2025',
     description:
       'Tasked with the development of a custom SaaS job board for the company to find talents for remote work around the world. The app offers lots of features such as built-in Invoicing of projects that allows clients to send payments using Stripe and Wise. Clients can also set schedules for meetings as part of their hiring process with Calendly. We used NextJS for the frontend with Tailwind as the styling and Supabase for the backend and database. We also used other tools like Upstash for caching and running scheduled tasks.',
     technologies: ['NextJS', 'Supabase', 'PostgreSQL', 'TailwindCSS', 'Shadcn/ui', 'Upstash', 'Redis', 'Stripe', 'Wise'],
