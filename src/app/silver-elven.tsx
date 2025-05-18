@@ -1,4 +1,3 @@
-import CarouselWithPagination from "@/components/carousel/carousel-with-pagination";
 import { Metadata } from "next";
 import Link from "next/link";
 
