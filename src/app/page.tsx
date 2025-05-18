@@ -49,7 +49,7 @@ export default async function Home() {
     'Firebase',
     'Dart',
     'Strapi',
-    'OctobarCMS',
+    'OctoberCMS',
   ]
   const other = [
     'Stripe',
@@ -58,6 +58,9 @@ export default async function Home() {
     'Tauri',
     'CI/CD',
     'Vercel',
+    'AWS',
+    'GCP',
+    'Cloudflare',
   ]
   const tools = [
     'git',
