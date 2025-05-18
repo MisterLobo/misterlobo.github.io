@@ -17,6 +17,7 @@ export default function PortfolioModern() {
       icon: Code2,
       page: '/silver-elven',
       repository: 'https://github.com/MisterLobo/ebs',
+      demo: 'https://silver-elven.cc',
     },
     {
       title: "World Clock",
