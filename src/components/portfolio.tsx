@@ -9,6 +9,16 @@ import Link from "next/link"
 export default function PortfolioModern() {
   const projects = [
     {
+      title: "Silver Elven",
+      description: "Host and Book Events",
+      category: "Development",
+      image: "https://placehold.co/900/EBEDED/C3C9C9?text=O&font=poppins.svg",
+      tags: ['TypeScript', 'NextJS', 'Firebase', 'Go', 'Stripe', 'AWS', 'Kafka', 'PostgreSQL', 'Gin', 'Monorepo', 'NX'],
+      icon: Code2,
+      page: '/ebs',
+      repository: 'https://github.com/MisterLobo/ebs',
+    },
+    {
       title: "World Clock",
       description: "Track date and time from different timezones",
       category: "Development",
