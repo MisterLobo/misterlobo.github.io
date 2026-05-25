@@ -4,6 +4,15 @@ import { Building, Building2, Calendar } from "lucide-react";
 
 const experiences = [
   {
+    title: 'Independent Consultant',
+    company: 'SquarePeg Co',
+    period: 'Nov 2025 - Jan 2026',
+    description:
+      'Migrated payments integration of a digital learning platform from Recurly to Stripe ensuring data integrity, security and consistency',
+    technologies: ['Education', 'Stripe', 'VueJS', 'NuxtJS', 'NestJS', 'MongoDB', 'Calendly', 'GoHighLevel', 'Recurly', 'GoCardless'],
+    icon: Building,
+  },
+  {
     title: 'Senior Full Stack Developer',
     company: 'Mercalli Freelance',
     period: '2023 - 2025',

@@ -9,6 +9,26 @@ import Link from "next/link"
 export default function PortfolioModern() {
   const projects = [
     {
+      title: "TeachMe",
+      description: "AI-powered and Secure 1-on-1 Private Digital Learning",
+      category: "Development",
+      image: "https://placehold.co/900/EBEDED/C3C9C9?text=O&font=poppins.svg",
+      tags: ['Private Sessions', 'Online Tutor', 'Marketplace', 'End-to-End Encryption', 'WebRTC', 'AI'],
+      icon: Code2,
+      page: '/teachme',
+      repository: 'https://github.com/MisterLobo/teachme',
+    },
+    {
+      title: "CaLLM",
+      description: "Offline LaTeX Math Solver with Step-by-Step Solutions",
+      category: "Development",
+      image: "https://placehold.co/900/EBEDED/C3C9C9?text=O&font=poppins.svg",
+      tags: ['Flutter', 'OCR', 'PaddleOCR', 'LaTeX', 'Algebra'],
+      icon: Code2,
+      page: '/callm',
+      repository: 'https://github.com/MisterLobo/callm',
+    },
+    {
       title: "Silver Elven",
       description: "Host and Book Events",
       category: "Development",
