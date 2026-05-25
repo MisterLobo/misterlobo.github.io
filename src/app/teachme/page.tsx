@@ -21,13 +21,6 @@ export default async function WebhooktestPage() {
     <div className="mx-4 my-10">
       <h3 className="text-md">GitHub Repo: <Link href="https://github.com/MisterLobo/teachme">https://github.com/MisterLobo/teachme</Link></h3>
     </div>
-    <CarouselWithPagination images={[
-      '/assets/images/world_clock/Screenshot_1745851261.png',
-      '/assets/images/world_clock/Screenshot_1745851266.png',
-      '/assets/images/world_clock/Screenshot_1745851275.png',
-      '/assets/images/world_clock/Screenshot_1745851328.png',
-      '/assets/images/world_clock/Screenshot_1745851424.png',
-    ]} />
     </>
   )
 }

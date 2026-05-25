@@ -22,13 +22,6 @@ export default async function WebhooktestPage() {
       <h3 className="text-md">Get it on the Play Store: (coming soon)</h3>
       <h3 className="text-md">GitHub Repo: <Link href="https://github.com/MisterLobo/callm">https://github.com/MisterLobo/callm</Link></h3>
     </div>
-    <CarouselWithPagination images={[
-      '/assets/images/world_clock/Screenshot_1745851261.png',
-      '/assets/images/world_clock/Screenshot_1745851266.png',
-      '/assets/images/world_clock/Screenshot_1745851275.png',
-      '/assets/images/world_clock/Screenshot_1745851328.png',
-      '/assets/images/world_clock/Screenshot_1745851424.png',
-    ]} />
     </>
   )
 }
